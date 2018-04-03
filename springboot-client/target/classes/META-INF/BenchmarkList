@@ -1,0 +1,12 @@
+JMH S 20 benchmark.rpc.Client S 48 benchmark.rpc.generated.Client_existUser_jmhTest S 9 existUser S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 20 benchmark.rpc.Client S 47 benchmark.rpc.generated.Client_listUser_jmhTest S 8 listUser S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 20 benchmark.rpc.Client S 46 benchmark.rpc.generated.Client_getUser_jmhTest S 7 getUser S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 20 benchmark.rpc.Client S 49 benchmark.rpc.generated.Client_createUser_jmhTest S 10 createUser S 10 SampleTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 20 benchmark.rpc.Client S 47 benchmark.rpc.generated.Client_listUser_jmhTest S 8 listUser S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 20 benchmark.rpc.Client S 47 benchmark.rpc.generated.Client_listUser_jmhTest S 8 listUser S 10 SampleTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 20 benchmark.rpc.Client S 49 benchmark.rpc.generated.Client_createUser_jmhTest S 10 createUser S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 20 benchmark.rpc.Client S 46 benchmark.rpc.generated.Client_getUser_jmhTest S 7 getUser S 10 SampleTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 20 benchmark.rpc.Client S 49 benchmark.rpc.generated.Client_createUser_jmhTest S 10 createUser S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 20 benchmark.rpc.Client S 48 benchmark.rpc.generated.Client_existUser_jmhTest S 9 existUser S 10 SampleTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 20 benchmark.rpc.Client S 48 benchmark.rpc.generated.Client_existUser_jmhTest S 9 existUser S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 20 benchmark.rpc.Client S 46 benchmark.rpc.generated.Client_getUser_jmhTest S 7 getUser S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
